@@ -1,0 +1,18 @@
+=============== Dec 14, 2022 (+07) ===============
+21:11:28.249641 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+21:11:28.270953 db@open opening
+21:11:28.272002 version@stat F·[] S·0B[] Sc·[]
+21:11:28.280724 db@janitor F·2 G·0
+21:11:28.281264 db@open done T·10.3114ms
+21:11:28.325597 db@close closing
+21:11:28.326488 db@close done T·890.7µs
+=============== Dec 14, 2022 (+07) ===============
+21:11:54.804819 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+21:11:54.806561 version@stat F·[] S·0B[] Sc·[]
+21:11:54.806561 db@open opening
+21:11:54.806561 journal@recovery F·1
+21:11:54.885759 journal@recovery recovering @1
+21:11:54.894060 memdb@flush created L0@2 N·11 S·638B "H^\x1f..א\xe0,v4":"r\x00\x00..א\xe0,v6"
+21:11:54.897061 version@stat F·[1] S·638B[638B] Sc·[0.25]
+21:11:54.908071 db@janitor F·3 G·0
+21:11:54.908071 db@open done T·101.5095ms
